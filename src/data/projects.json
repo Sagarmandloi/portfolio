@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Assets management system",
+    "imageSrc": "projects/assets.jpg",
+    "description": "With our comprehensive system, say goodbye to the chaos and inefficiencies of asset mismanagement",
+    "skills": ["React", "Express", "Node", "mySQL"],
+    "demo": "http://tutorials.codebetter.in:4013/",
+    "source": "https://github.com/codebetterindia/AssetsManagement"
+  },
+  {
+    "title": "yoom video meeting app",
+    "imageSrc": "projects/zoom.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["next.js","webRTC"],
+    "demo": "https://videomeeting-l5py40lqr-sagarmandlois-projects.vercel.app",
+    "source": "https://github.com/Sagarmandloi/zoom_clone"
+  },
+  {
+    "title": "Bubble Hit",
+    "imageSrc": "projects/bubble.png",
+    "description": "javascript game for your leisur time",
+    "skills": ["javasccript" , "css"],
+    "demo": "https://vikas5686.github.io/Javascript_Game/"
+
+  },
+  {
+    "title": "Real time Chat Application",
+    "imageSrc": "projects/Chat.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node" ,"socket.io"],
+  
+    "source": "https://github.com/Sagarmandloi/Real_Time_Chat_Applicatation"
+  }
+]
